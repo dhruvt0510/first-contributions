@@ -28,6 +28,7 @@
 - [Krunal Patel](https://github.com/kd05)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
+- [Dhruv Tandon]@Devsoc
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Lakshan Perera](https://github.com/0xluckycode)
 - [Chouaieb Nemri](https://github.com/cnemri)
